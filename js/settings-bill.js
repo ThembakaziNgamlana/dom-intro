@@ -86,7 +86,7 @@ if(tot < criticalLevelCollect){
     totalSetElem.classList.add("danger");
   }
 }
-
+//console.log(tot)
 let addSettingBtn = document.querySelector(".add-setting-btn");
 addSettingBtn.addEventListener("click", addSettingBill);
 
