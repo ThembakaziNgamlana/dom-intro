@@ -30,6 +30,7 @@ if (total >= 30){
     billTotal.classList.add("danger");
 
   }
+ // done
  /* else{
   billTotal.classList.remove("danger");
     billTotal.classList.add("black"); 

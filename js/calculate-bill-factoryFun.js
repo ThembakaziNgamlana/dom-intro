@@ -2,7 +2,7 @@ function calculateBill() {
   var total = 0;
   var smsTotalCost = 0;
   var callTotalCost = 0;
-
+// doing a function
 
   function totalBill(bill) {
       let billArr = bill.toLowerCase().split(',');
